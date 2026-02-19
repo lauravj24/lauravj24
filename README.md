@@ -18,6 +18,14 @@
 
 ---
 
+⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
+
 ## 📫 Contáctame
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Flauravj24)
